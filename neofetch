@@ -797,7 +797,7 @@ image_source="auto"
 #       Mer, Minix, LinuxMint, Live_Raizo, MX_Linux, Namib, Neptune, NetBSD,
 #       Netrunner, Nitrux, NixOS, Nurunner, NuTyX, OBRevenge, OpenBSD,
 #       openEuler, OpenIndiana, openmamba, OpenMandriva, OpenStage, OpenWrt,
-#       osmc, Oracle, OS Elbrus, PacBSD, Parabola, ParchLinux, Pardus, Parrot, Parsix,
+#       osmc, Oracle, OS Elbrus, PacBSD, Parabola, Parch Linux, Pardus, Parrot, Parsix,
 #       TrueOS, PCLinuxOS, Pengwin, Peppermint, Pisi, popos, Porteus, PostMarketOS,
 #       Proxmox, PuffOS, Puppy, PureOS, Qubes, Qubyt, Quibian, Radix, Raspbian,
 #       Reborn_OS, Redstar, Redcore, Redhat, Refracted_Devuan, Regata, Regolith,
@@ -816,7 +816,7 @@ image_source="auto"
 # NOTE: ArcoLinux, Dragonfly, Fedora, Alpine, Arch, Ubuntu,
 #       CRUX, Debian, Gentoo, FreeBSD, Mac, NixOS, OpenBSD, android,
 #       Artix, CentOS, Cleanjaro, ElementaryOS, GUIX, Hyperbola,
-#       Manjaro, MXLinux, NetBSD, Parabola, ParchLinux, POP_OS, PureOS,
+#       Manjaro, MXLinux, NetBSD, Parabola, Parch Linux, POP_OS, PureOS,
 #       Slackware, SunOS, LinuxLite, OpenSUSE, Raspbian,
 #       postmarketOS, and Void have a smaller logo variant.
 #       Use '{distro name}_small' to use the small variants.
@@ -5157,7 +5157,7 @@ ASCII:
                                 Live_Raizo, MX_Linux, Namib, Neptune, NetBSD, Netrunner, Nitrux,
                                 NixOS, Nurunner, NuTyX, OBRevenge, OpenBSD, openEuler, OpenIndiana,
                                 openmamba, OpenMandriva, OpenStage, OpenWrt, osmc, Oracle,
-                                OS Elbrus, PacBSD, Parabola, ParchLinux, Pardus, Parrot, Parsix, TrueOS,
+                                OS Elbrus, PacBSD, Parabola, Parch Linux, Pardus, Parrot, Parsix, TrueOS,
                                 PCLinuxOS, Pengwin, Peppermint, Pisi, popos, Porteus, PostMarketOS,
                                 Proxmox, PuffOS, Puppy, PureOS, Qubes, Qubyt, Quibian, Radix, Raspbian, Reborn_OS,
                                 Redstar, Redcore, Redhat, Refracted_Devuan, Regata, Regolith, Rosa,
@@ -5182,7 +5182,7 @@ ASCII:
                                 CRUX, Debian, Gentoo, FreeBSD, Mac, NixOS, OpenBSD, android,
                                 Artix, CentOS, Cleanjaro, ElementaryOS, GUIX, Hyperbola,
                                 Manjaro, MXLinux, NetBSD, Parabola, POP_OS, PureOS,
-                                Slackware, SunOS, LinuxLite, OpenSUSE, ParchLinux, Raspbian,
+                                Slackware, SunOS, LinuxLite, OpenSUSE, Parch Linux, Raspbian,
                                 postmarketOS, and Void have a smaller logo variant.
 
                                 NOTE: Use '{distro name}_small' to use the small variants.
@@ -5981,7 +5981,7 @@ ooooooooo.                     ${c1}-ooooooooo${c2}
 EOF
         ;;
 
-        "ParchLinux_small"*)
+        "Parch Linux_small"*)
             set_colors 7 4
             read -rd '' ascii_data <<'EOF'
 ${c1}           /.   
@@ -5999,7 +5999,7 @@ ${c1}           /.
 EOF
         ;;
 
-        "ParchLinux"*)
+        "Parch Linux"*)
             set_colors 7 4
             read -rd '' ascii_data <<'EOF'
 ${c1}                 /////*
